@@ -42,6 +42,8 @@
   border-width:5px;
   border-radius: 5px;
   border-color: gray;
+  overflow: scroll;
+  
 };
 
 .chatAtendente{
