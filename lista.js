@@ -14,7 +14,7 @@ function formAdiciona(event) {
   event.preventDefault();
 
   const campoItem = document.querySelector("#item");
-  // se eu chegar aqui, o código está validado...
+  // se eu chegar aqui, o código está validado.....
   adicionaItem(campoItem.value);
 
   campoItem.value = "";
